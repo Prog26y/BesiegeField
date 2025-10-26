@@ -242,7 +242,7 @@ cd PostTraining/ColdStart/dataset
 ./download_dataset.sh
 ``` -->
 
-#### Step 1: Run Cold Start (Dataset will download from [huggingface](https://huggingface.co/datasets/Godheritage/BesiegeField_geminidataset_coldstart))
+#### Step 1: Run Cold Start with [Orthogonal Finetuning](https://huggingface.co/docs/peft/main/en/conceptual_guides/oft) (Dataset will download from [huggingface](https://huggingface.co/datasets/Godheritage/BesiegeField_geminidataset_coldstart))
 
 ```bash
 cd PostTraining/ColdStart
